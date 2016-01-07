@@ -1,6 +1,6 @@
 # kneser-ney
 An implementation of [Kneser-Ney](https://en.wikipedia.org/wiki/Kneser%E2%80%93Ney_smoothing) language modeling in Python3.
-This is not a particularly optimized implementation, but is hopefully helpful for learning and works fine for corpuses that aren't too large.
+This is not a particularly optimized implementation, but is hopefully helpful for learning and works fine for corpora that aren't too large.
 
 # Usage
 
